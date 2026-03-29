@@ -78,7 +78,8 @@
           "options": {
             "tsConfig": "tsconfig.spec.json",
             "styles": ["src/styles.scss"],
-            "scripts": []
+            "scripts": [],
+            "maxWorkers": 1
           }
         }
       }
